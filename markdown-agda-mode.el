@@ -1,4 +1,5 @@
 ;;; markdown-agda-mode.el --- Major mode for working with literate Markdown Agda files
+;; Shamelessly adapted from https://github.com/alhassy/org-agda-mode
 ;;; -*- lexical-binding: t
 
 ;;; Commentary:
